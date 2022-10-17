@@ -1,3 +1,4 @@
-print("Hello");
-print("Hello World");
-print("Gladto see you");
+print("Hello;");
+print("Hello World;");
+print("Glad to see you;");
+print("Hello dear friend;");
